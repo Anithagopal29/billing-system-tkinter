@@ -15,3 +15,7 @@
 
 <img width="952" alt="Image" src="https://github.com/user-attachments/assets/8d3f329f-88f5-4b9d-845b-70ec9f287da8" />
 
+# Database Connectivity
+
+<img width="775" alt="Image" src="https://github.com/user-attachments/assets/b05f2f33-1346-4933-ba30-7df09a5242ca" />
+
