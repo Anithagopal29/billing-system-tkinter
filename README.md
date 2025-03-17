@@ -1,2 +1,2 @@
-#Restaurant Billing System Using Tkinter
-#Tkinter Window
+# Restaurant Billing System Using Tkinter
+# Tkinter Window
